@@ -1,0 +1,366 @@
+# Events & causation | ➝
+## Event structure | ⇒
+### States are locations | CT | Being in a state is being in a place.
+- She's in trouble.
+- He's out of danger.
+- We're on the edge of a breakdown.
+- We're in a mess.
+- They're at war.
+### Changes are movements | CT | To change is to move from one place to another.
+- He went crazy.
+- She came out of her coma.
+- The light went from green to red.
+- It turned into a mess.
+### Causes are forces | CT | Causes push, pull and drive changes.
+- The news drove her to tears.
+- Hunger pushed them to steal.
+- That pulled the country into war.
+- It forced my hand.
+### Actions are self-propelled movements | CT | Doing is moving on your own.
+- We're moving ahead with the plan.
+- She's making progress.
+- He took a step toward a solution.
+- They're going full speed.
+### Purposes are destinations | CT | Goals are places to reach.
+- She reached her goal.
+- We're getting nowhere.
+- He's on his way to a degree.
+- We're almost there.
+- That's a far cry from what we wanted.
+### Means are paths | CT | The way you do something is the road you take.
+- Do it this way.
+- There's no way to get there from here.
+- She went the long way around.
+- He took a shortcut.
+### Difficulties are impediments to motion | CT | Problems block, burden or slow movement.
+- We hit a wall.
+- She's bogged down in paperwork.
+- He's got a lot of hurdles to clear.
+- There's a roadblock.
+- Let's get around this problem.
+### Expected progress is a travel schedule | CT | Plans have a timetable you can be ahead of or behind.
+- We're behind schedule.
+- She's ahead of the pack.
+- We're on track.
+- He fell behind.
+### Long-term purposeful activities are journeys | CT | Careers and projects are trips.
+- Her career took off.
+- He's at the crossroads of his career.
+- The project is headed in the right direction.
+- She's going places.
+### Purposes are desired objects | PF | Achieving a goal is getting hold of something.
+- She got the job.
+- He's grasping for success.
+- The prize slipped away.
+- They have victory within reach.
+### Attributes are possessions | CT | Properties are things one has.
+- She has a lot of patience.
+- He lost his temper.
+- They have charm.
+- She gained confidence.
+### Activity is motion | WF | Being active is moving; stopping is standing still.
+- Things are moving along.
+- Business is at a standstill.
+- She's on the go.
+- The talks stalled.
+### Activity is a journey | WF | Activities follow a path from start to finish.
+- We're halfway through the project.
+- She's starting out on a new job.
+- We've reached the end of the season.
+- Let's see it through.
+### Events are objects | MW | Events are things located in time and space.
+- The game is in the afternoon.
+- I'll get through the meeting.
+- The concert is behind us.
+- We'll squeeze in the trip.
+### An activity is a substance | MW | Activities have amounts and can be thin or rich.
+- There was a lot of shouting at that meeting.
+- I put a ton of energy into the garden.
+- How much work do you have?
+- I don't get much out of lectures.
+### Events, actions and states are containers | MW | You are in a race, get out of a job, are in love.
+- Are you in the marathon?
+- I put a lot into that project.
+- He's out of the running.
+- She got out of jury duty.
+## Causation | ⚙
+### Causation is making | MW | To cause is to produce or manipulate something by hand.
+- She made him cry.
+- That drove him crazy.
+- He brought about the change.
+- The storm created chaos.
+### Causation is emergence | MW | Effects come out of causes.
+- His success came out of hard work.
+- The war grew out of tensions.
+- She emerged from poverty.
+- That arose from a misunderstanding.
+### Causation is a link | ML | Causes are tied to effects.
+- There's a link between smoking and cancer.
+- The two are connected.
+- It sets off a chain reaction.
+- They tied the crisis to the policy.
+### Causes are paths | PF | A cause leads to its effect.
+- That leads to trouble.
+- Lying gets you nowhere.
+- One thing led to another.
+- That road leads to ruin.
+### Causes are physical forces | PF | Events push other events.
+- It pushed him over the edge.
+- The vote tipped the balance.
+- That set things in motion.
+- Inflation is driving prices up.
+
+# Quantity, value & status | ↑
+## Up & down | ↕
+### More is up; less is down | MW | Quantity rises like a pile; grounded in pouring water into a glass.
+- Prices keep going up.
+- Book sales rise every year.
+- My income dropped.
+- Turn the heat down.
+- Sales hit a new high.
+- That's a low figure.
+### Good is up; bad is down | MW | Good things are high; bad things are low.
+- Things are looking up.
+- We hit a peak last year.
+- It's been downhill since then.
+- That's a high-quality product.
+- Things are at an all-time low.
+### Virtue is up; depravity is down | MW | Good people are upright and above things; bad ones sink.
+- She's an upstanding citizen.
+- That was a low trick.
+- He has high standards.
+- I wouldn't stoop to that.
+- That was beneath you.
+### High status is up; low status is down | MW | Power and rank are height.
+- She rose to the top.
+- He's at the bottom of the ladder.
+- She's climbing the social ladder.
+- He's fallen from grace.
+- That's a lofty position.
+### Having control or force is up; being subject to control is down | MW | Power is on top; the powerless are under.
+- I have control over her.
+- He's on top of the situation.
+- She's under my command.
+- He fell from power.
+- They're the underdogs.
+### Lack of control is down | WF | Losing control is falling.
+- He fell apart.
+- She was overcome.
+- I fell for it.
+- He went down hard.
+### Finished is up | MW | Completing is bringing up.
+- Drink up.
+- I'll finish up.
+- Wrap it up.
+- Time's up.
+### Mundane reality is down | MW | Everyday facts are on the ground.
+- Come down to earth.
+- He's got his feet on the ground.
+- Things are at the ground level.
+- Let's get down to business.
+## Size & value | ◇
+### Significant is big | MW | What matters is large.
+- That's a big deal.
+- Tomorrow is a big day.
+- It's a small matter.
+- He's a giant in his field.
+- Those are minor problems.
+### Important is central | WF | What matters is at the center; the trivial is on the edges.
+- That's central to the argument.
+- That's a peripheral concern.
+- She's at the heart of it.
+- That's a fringe view.
+### Importance is weight | ML | Important things are heavy.
+- That's a weighty matter.
+- Her opinion carries weight.
+- It's a lightweight argument.
+- He threw his weight behind it.
+### More is better | MW | Having more is good.
+- We need more.
+- He wants more out of life.
+- The more the merrier.
+- She's always wanting more.
+### Bigger is better | MW | The large is better.
+- Go big.
+- That's a big win.
+- He's a big shot.
+- It's the biggest name in the industry.
+### Smaller is better | MW | Coherence breaks: compact cars, tiny gadgets.
+- It's lightweight and compact.
+- Less is more.
+- That model is sleeker.
+- Small is beautiful.
+### Similarity is closeness | PF | Similar things are near each other.
+- Those colors are close.
+- That's not even close.
+- They're far apart on politics.
+- It's near enough.
+### Linear scales are paths | PF | Degrees on a scale are points on a road.
+- She's far smarter than him.
+- He's way ahead in the polls.
+- That's a step up.
+- It goes well beyond that.
+### Difficulties are burdens | PF | Hard things are heavy to carry.
+- She's weighed down by her duties.
+- That's a load off my mind.
+- He shouldered the blame.
+- It's a heavy task.
+### Help is support | PF | To help is to hold someone up.
+- She supported me through it.
+- Lean on me.
+- He propped up the business.
+- She has a strong support system.
+### Organization is physical structure | PF | Abstract organization is the shape of a built object.
+- The plan fell apart.
+- How do the pieces fit together?
+- The argument has a clear structure.
+- The company is built around that idea.
+
+# Things & containers | ▢
+## Entities | ▪
+### Inflation is an entity | MW | Inflation becomes a thing that can be measured and fought.
+- Inflation is eating into wages.
+- We need to combat inflation.
+- Inflation is out of control.
+- Inflation hit a new high.
+### Inflation is an adversary | MW | Personified: inflation attacks, robs and has to be fought.
+- Inflation is hammering families.
+- Inflation stole my raise.
+- Inflation is public enemy number one.
+- Inflation caught the Fed off guard.
+### The mind is an entity | MW | The mind is something that can be worked, broken or fixed.
+- My mind isn't working.
+- I'll have my mind made up by noon.
+- Her mind is sharp.
+- Get your mind right.
+### Percepts are entities | WF | What is perceived becomes a thing.
+- The sound came from the left.
+- The smell filled the room.
+- I caught a glimpse.
+- There was a flash.
+### Ideas are entities | WF | Ideas are things you can find and lose.
+- I've got an idea.
+- I lost my train of thought.
+- Where did that idea come from?
+- She found the answer.
+### Personification | MW | Nonhuman things are given human motives and actions.
+- Life has cheated me.
+- The theory explains the results.
+- Cancer finally caught up with him.
+- The facts argue against it.
+- My computer hates me.
+### Wealth is a hidden object | MW | Money is found, dug for and hidden.
+- He's seeking his fortune.
+- She found a gold mine.
+- He's digging for treasure.
+- She struck it rich.
+### Labor is a substance | MW | Work is stuff to be measured.
+- How much work is left?
+- There's a lot of labor in this.
+- I put in a lot of effort.
+- It needs more work.
+## Containers | ▭
+### Land areas are containers | MW | Territories have insides and outsides.
+- He's out of Washington now.
+- There's a lot of land in Kansas.
+- Come into the field.
+- She's deep in the forest.
+### Substance is a container | MW | Water, air and crowds are things to be in.
+- He's in the bathtub.
+- Jump into the water.
+- She's in the crowd.
+- He disappeared into the fog.
+### Classes are containers | WF | Categories are bounded regions; members are in or out.
+- Whales are in the class of mammals.
+- That's out of my category.
+- She falls under that heading.
+- It belongs in a different group.
+### Categories are containers | PF | Things fall into or outside of kinds.
+- That's outside the definition.
+- It falls into the gray area.
+- Put it in the 'maybe' pile.
+- That's beyond the scope.
+### Existence is location here | WF | To exist is to be present here.
+- There's a problem.
+- Here's an idea.
+- There it is.
+- Here we are.
+### Nonexistence is location away | WF | To stop existing is to go away.
+- The pain went away.
+- The town disappeared.
+- The bridge is gone.
+- It vanished.
+### Seeing a thing done stands for making sure it's done | WF | Watching over something is ensuring it.
+- See that it gets done.
+- I'll see to it.
+- Watch that he doesn't fall.
+- I'll look after the kids.
+
+# Metonymy | ◑
+## Metonymies | ◑
+### The part for the whole | MW | A part stands for the whole thing or person.
+- We could use some fresh faces.
+- Move your butt.
+- All hands on deck.
+- That lab has some good heads.
+- She's the brains of the team.
+### Producer for product | MW | The maker stands for what was made.
+- He bought a Ford.
+- She owns a Picasso.
+- I can't stand reading Kant.
+- He's got a Rolex.
+### Object used for user | MW | The tool stands for the one using it.
+- The drums are late again.
+- The trucks are on strike.
+- The hired muscle wanted cash up front.
+- We need a better bat in the lineup.
+### Controller for controlled | MW | Who's in charge stands for what they control.
+- Caesar crossed the Rubicon.
+- Truman ended the war.
+- A Tesla cut me off.
+- The coach won the game.
+### Institution for people responsible | MW | The organization stands for its members.
+- Apple raised its prices.
+- The Senate isn't convinced.
+- The university will not budge.
+- The army wants your sons.
+### The place for the institution | MW | A building or city stands for who works there.
+- The White House declined to comment.
+- Washington doesn't listen.
+- Wall Street is panicking.
+- Hollywood loves a sequel.
+### The place for the event | MW | Where something happened stands for what happened.
+- This could turn into another Vietnam.
+- Watergate changed politics.
+- Remember the Alamo.
+- It's another Pearl Harbor.
+### The face for the person | MW | The face stands for who someone is.
+- She's just a pretty face.
+- There are a lot of new faces here.
+- Put a face to the name.
+- He's the face of the company.
+### The physiological effects of an emotion stand for the emotion | WF | Red faces, shaking and tears mean feelings.
+- He was red-faced.
+- She was in tears.
+- I had butterflies.
+- Her hands were shaking.
+### Things perceived stand for their percepts | WF | Naming the thing stands for experiencing it.
+- I hear the piano.
+- I smell coffee.
+- I feel the wind.
+- I see the stars.
+### A member stands for the category | WF | Prototypes stand in for the whole category.
+- A real mother stays home.
+- He's a typical bird watcher.
+- That's not a real bird.
+- The paragon of the type.
+### The stereotype stands for the category | WF | A social stereotype is taken as the whole kind.
+- She's a working mother.
+- He's a real man.
+- Typical bachelor.
+- What a housewife.
+### Ideal for category | WF | The ideal member defines the category.
+- That's the perfect husband.
+- She's an ideal student.
+- He's not a true scholar.
+- An ideal world.
